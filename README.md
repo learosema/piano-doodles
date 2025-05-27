@@ -16,4 +16,4 @@ Turns out this is super fun. Meaybe this keeps me motivated ❤️.
 
 - [Listen to Audio](lwv1/lwv1-inprovisation-in-c-major.mp3)
 - [Sheet (pdf)](lwv1/lwv1-inprovisation-in-c-major.pdf)
-- [MuseScore file](lwv1\lwv1-inprovisation-in-c-major.mscz)
+- [MuseScore file](lwv1/lwv1-inprovisation-in-c-major.mscz)
